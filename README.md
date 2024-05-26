@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Vyom Saraf
-- 👀 I’m interested in Android native, flutter and web-stack
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on android native and flutter
+- 👀 I'm working as SDE-iOS
+- 👀 I’m interested in iOS native, Android Native and React Native
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on iOS native
 - 📫 How to reach me -> my email is vyomsaraf@gmail.com
 
 <!---
